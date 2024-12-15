@@ -48,7 +48,8 @@
   padding: 0px;
 }
 
-.todo-app__task-item, h3 {
+.todo-app__task-item,
+h3 {
   list-style: none;
 }
 
